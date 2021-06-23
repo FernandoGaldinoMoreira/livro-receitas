@@ -1,15 +1,15 @@
 # Strogonoff de Frango
 
 ### Ingredientes
-* 1 colher (sobremesa) de azeite
-* 400g de Tiras de Frango Na Receita Sadia
-* 1 colher (café) de sal
-* 1 colher (café) de páprica picante
-* ½ lata de tomates pelados
-* 1 colher (sopa) de mostarda
-* 1 colher (sopa) de molho inglês
-* 1 xícara (chá) de champignons cortados ao meio
-* 1 lata de creme de leite
+ * 1 colher (sobremesa) de azeite
+ * 400g de Tiras de Frango Na Receita Sadia
+ * 1 colher (café) de sal
+ * 1 colher (café) de páprica picante
+ * ½ lata de tomates pelados
+ * 1 colher (sopa) de mostarda
+ * 1 colher (sopa) de molho inglês
+ * 1 xícara (chá) de champignons cortados ao meio
+ * 1 lata de creme de leite
 
 ### Modo de Preparo
 1. Em uma panela, aqueça o azeite e refogue as tiras de frango;
